@@ -19,3 +19,9 @@ Oyunu deneyimlemek için [itchio](https://amrscdlmr.itch.io/falling-down) sayfas
 Jamden sonra projeler değerlendirirken severek takip ettiğim Vimlark'ın yorumunu görmekte beni ayrıca mutlu etti. 
 
 ![yorum](https://github.com/AMRSCDL/Falling-Down/blob/main/ReadMeStuff/photo1687434439.jpeg)
+
+Oyunun müziğini yaparken oyuna adını veren Lil Peep- Falling Down şarkısından esinlenerek 8bit bir şekilde harmanladım.
+
+https://github.com/AMRSCDL/Falling-Down/assets/100695177/ea025ebb-2258-49ba-88dd-cc747c561f0c
+
+
