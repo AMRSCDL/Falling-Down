@@ -13,7 +13,7 @@
 ![gif](https://github.com/AMRSCDL/Falling-Down/blob/main/ReadMeStuff/Falling%20Down%20by%20AMRSCDLMR%20.gif)
 
 ## Oynamak İster misin?
-Oyunu deneyimlemek için [itchio](https://amrscdlmr.itch.io/falling-down) sayfasını ziyaret edebilirsin.
+Oyunu deneyimlemek için [itch.io](https://amrscdlmr.itch.io/falling-down) sayfasını ziyaret edebilirsin.
 
 ## Diğer
 Jamden sonra projeler değerlendirirken severek takip ettiğim Vimlark'ın yorumunu görmekte beni ayrıca mutlu etti. 
